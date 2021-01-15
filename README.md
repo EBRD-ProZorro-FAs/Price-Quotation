@@ -19,12 +19,12 @@ Use Case:
 
 ### Functional Documentation
 
- - [Purchasing methodology and business process for Price Quotation](/documentation/functional/Purchasing\ methodology\ and\ business\ process\ for\ Price\ Quotation.pdf)
+ - [Purchasing methodology and business process for Price Quotation](/documentation/functional/Purchasing-methodology-and-business-process-for-Price-Quotation.pdf)
 
 ### Technical Documentation
 
  - [ProZorro API docs: Price Quotation procedure](https://prozorro-api-docs.readthedocs.io/en/master/tendering/pricequotation)
- - [Price Quotation procedure: Report from development](/documentation/technical/Price\ Quotation\ procedure\ Report\ from\ development.pdf)
+ - [Price Quotation procedure: Report from development](/documentation/technical/Price-Quotation-procedure-Report-from-development.pdf)
 
 ### Development Environment Documentation
 
