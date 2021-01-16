@@ -34,4 +34,4 @@ Use Case:
 ### Summary case study
 
  * [Assistance with piloting Framework Agreements (C43067). Price Quotation procedure](
-https://github.com/Price-Quotation/openprocurement.api/wiki/Summary-Case-Study) (wiki)
+https://github.com/EBRD-ProZorro-FAs/Price-Quotation/wiki/Summary-Case-Study) (wiki)
